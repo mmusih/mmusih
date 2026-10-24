@@ -6,11 +6,13 @@ I build websites, web applications and mobile apps that help businesses, schools
 
 My work spans backend development, user interfaces, databases and connected mobile applications. I enjoy turning everyday operational challenges into practical, easy-to-use software.
 
+My company is **Digitalcore Business Systems (Pty) Ltd.** Visit [dbsystems.tech](https://dbsystems.tech) to learn more about my work and services.
+
 ## Projects I've worked on
 
 - **[Kweneng school platform](https://github.com/mmusih/kweneng)** — A Laravel school management system covering student records, attendance, academic reports, timetables, finance and communication, with Flutter apps for parents and teachers.
 - **Eyes On The Ball Academy** — A Next.js football academy platform with player profiles, fixtures, match tracking, galleries and a staff dashboard.
-- **[DigitalCore / Business Digital Systems](https://github.com/mmusih/digitalcore)** — A website presenting web development, mobile application and business software services.
+- **[Digitalcore Business Systems](https://dbsystems.tech)** — My company website presenting web development, mobile application and business software services. [View repository](https://github.com/mmusih/digitalcore).
 - **Zose Pharma** — A company website presenting pharmaceutical products, facilities, research and company information.
 
 ## Technologies I work with
